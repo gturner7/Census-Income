@@ -6,6 +6,6 @@ This project tried to develop a model to accurately predict the salary of a pers
 The project is organized in 3 folders:
 Data : contains the csv files of 2 datasets (with and without outliers) containing 41 columns and over 338K rows, and a data dictionary for the different category codes that were used to describe the variables  
 
-Code: it consists of the actual R, Python, and Tableau files developed during the project. RStudio and a Anaconda Jupyetr Notebook were used to develop the code.
+Code: it consists of the actual R, Python, and Tableau files developed during the project. RStudio and a Anaconda Jupyter Notebook were used to develop the code.
 
 Report: final report document containing all the analyses and findings
