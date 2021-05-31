@@ -1,5 +1,5 @@
-# CS504
-Repository for CS504 Project - Salary Predictor Model Using Census Data
+# Census Income
+Repository for Agile machine learning team project - Salary Predictor Model Using Census Data
 
 This project tried to develop a model to accurately predict the salary of a person using different predictor variables. Data from the ASEC Census Dataset from 2019 and 2020 was used and analyzed during this project. A variety of algorithms (Correlation, Linear Regression, Lasso Regression, Random Forest, Gradient Boosting, and Extreme Gradient Boosting) were used to model and analyze the data using R, Python, Tableau, and AWS SageMaker
 
